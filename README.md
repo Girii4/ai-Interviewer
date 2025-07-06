@@ -112,6 +112,7 @@ cd PrepIQ---AI-NLP-Interview-Assistant
 - Create and activate a Python virtual environment (recommended):
 
   ```bash
+  #use python 3.11 
   # Create the environment (only needs to be done once)
   python -m venv .venv 
 
